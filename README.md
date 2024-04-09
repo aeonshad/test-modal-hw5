@@ -1,7 +1,8 @@
 # React Modal Component
 
-![React](https://img.shields.io/badge/build-18.2.0-blue?style=flat&logo=react&label=React&link=https%3A%2F%2Ffr.react.dev%2F)(https://fr.react.dev/)
-![npm](https://img.shields.io/badge/build-10.2.4-red?style=flat&logo=NPM&label=NPM&link=https%3A%2F%2Fwww.npmjs.com%2F)(https://www.npmjs.com/)
+<a href='https://fr.react.dev/'><img alt="Static Badge" src="https://img.shields.io/badge/version-18.2.0-blue?style=flat&logo=React&label=React"></a>
+<a href='https://www.npmjs.com/'><img alt="Static Badge" src="https://img.shields.io/badge/version-10.2.4-red?style=flat&logo=NPM&label=NPM"></a>
+<a href='https://github.com/aeonshad/test-modal-hw5/blob/main/README.fr.md'><img alt="Static Badge" src="https://img.shields.io/badge/version-French%7CFran%C3%A7ais-%2322802b?style=flat&logo=readme&logoColor=%23b3bd68&label=Readme"></a>
 
 A simple and customizable modal window component for React applications.
 

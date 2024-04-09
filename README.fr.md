@@ -1,8 +1,8 @@
 # Composant React Modale
 
-![React](https://img.shields.io/badge/build-18.2.0-blue?style=flat&logo=react&label=React&link=https%3A%2F%2Ffr.react.dev%2F)(https://fr.react.dev/)
-![npm](https://img.shields.io/badge/build-10.2.4-red?style=flat&logo=NPM&label=NPM&link=https%3A%2F%2Fwww.npmjs.com%2F)
-<a href='https://www.npmjs.com/'><img alt="Static Badge" src="https://img.shields.io/badge/build-French%2FFran%C3%A7ais-gray?style=flat&logo=readme&label=README&link=https%3A%2F%2Ffr.react.dev%2F"></a>
+<a href='https://fr.react.dev/'><img alt="Static Badge" src="https://img.shields.io/badge/version-18.2.0-blue?style=flat&logo=React&label=React"></a>
+<a href='https://www.npmjs.com/'><img alt="Static Badge" src="https://img.shields.io/badge/version-10.2.4-red?style=flat&logo=NPM&label=NPM"></a>
+<a href='https://github.com/aeonshad/test-modal-hw5/blob/main/README.md'><img alt="Static Badge" src="https://img.shields.io/badge/version-English%7CAnglais-%2322802b?style=flat&logo=readme&logoColor=%23b3bd68&label=Readme"></a>
 
 Un composant de fenêtre modale simple et personnalisable pour les applications React.
 
