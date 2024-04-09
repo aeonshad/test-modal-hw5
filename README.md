@@ -1,7 +1,7 @@
 # React Modal Component
 
-![React](https://img.shields.io/badge/build-18.2.0-blue?style=flat&logo=react&label=React)
-![NPM](https://img.shields.io/badge/build-10.2.4-red?style=flat&logo=NPM&label=NPM)
+![React](https://img.shields.io/badge/build-18.2.0-blue?style=flat&logo=react&label=React&link=https%3A%2F%2Ffr.react.dev%2F)
+![npm](https://img.shields.io/badge/build-10.2.4-red?style=flat&logo=NPM&label=NPM&link=https%3A%2F%2Fwww.npmjs.com%2F)
 
 A simple and customizable modal window component for React applications.
 
