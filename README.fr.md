@@ -1,8 +1,8 @@
 # Composant React Modale
 
 ![React](https://img.shields.io/badge/build-18.2.0-blue?style=flat&logo=react&label=React&link=https%3A%2F%2Ffr.react.dev%2F)(https://fr.react.dev/)
-![npm](https://img.shields.io/badge/build-10.2.4-red?style=flat&logo=NPM&label=NPM&link=https%3A%2F%2Fwww.npmjs.com%2F)(https://www.npmjs.com/)
-<img alt="Static Badge" src="https://img.shields.io/badge/build-French%2FFran%C3%A7ais-gray?style=flat&logo=readme&label=README&link=https%3A%2F%2Ffr.react.dev%2F">
+![npm](https://img.shields.io/badge/build-10.2.4-red?style=flat&logo=NPM&label=NPM&link=https%3A%2F%2Fwww.npmjs.com%2F)
+<a href='https://www.npmjs.com/'><img alt="Static Badge" src="https://img.shields.io/badge/build-French%2FFran%C3%A7ais-gray?style=flat&logo=readme&label=README&link=https%3A%2F%2Ffr.react.dev%2F"></a>
 
 Un composant de fenêtre modale simple et personnalisable pour les applications React.
 
